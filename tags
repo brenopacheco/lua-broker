@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+Broker.publish	modules/broker.lua	34;"	f
+Broker.register	modules/broker.lua	26;"	f
+Broker.subscribe	modules/broker.lua	42;"	f
+Event.new	modules/event.lua	10;"	f
+Inspector:alreadyVisited	utils/inspect.lua	213;"	f
+Inspector:down	utils/inspect.lua	203;"	f
+Inspector:getId	utils/inspect.lua	217;"	f
+Inspector:putKey	utils/inspect.lua	228;"	f
+Inspector:putTable	utils/inspect.lua	235;"	f
+Inspector:putValue	utils/inspect.lua	286;"	f
+Inspector:puts	utils/inspect.lua	193;"	f
+Inspector:tabify	utils/inspect.lua	209;"	f
+M.test	test/broker.lua	11;"	f
+__call	utils/inspect.lua	331;"	f
+__tostring	modules/broker.lua	16;"	f
+__tostring	modules/broker.lua	22;"	f
+__tostring	modules/event.lua	20;"	f
+copySequence	utils/inspect.lua	146;"	f
+countTableAppearances	utils/inspect.lua	127;"	f
+escape	utils/inspect.lua	63;"	f
+getNonSequentialKeys	utils/inspect.lua	114;"	f
+getSequenceLength	utils/inspect.lua	104;"	f
+inspect.KEY	utils/inspect.lua	33;"	f
+inspect.METATABLE	utils/inspect.lua	34;"	f
+inspect.inspect	utils/inspect.lua	303;"	f
+isIdentifier	utils/inspect.lua	69;"	f
+isSequenceKey	utils/inspect.lua	73;"	f
+makePath	utils/inspect.lua	152;"	f
+processRecursive	utils/inspect.lua	161;"	f
+rawpairs	utils/inspect.lua	36;"	f
+resolving paths in require	README.md	1;"	c
+smartQuote	utils/inspect.lua	42;"	f
+sortKeys	utils/inspect.lua	85;"	f
+subscribers	modules/broker.lua	10;"	f
